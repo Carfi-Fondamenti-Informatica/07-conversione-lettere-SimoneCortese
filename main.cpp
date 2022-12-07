@@ -5,7 +5,7 @@ using namespace std;
 int main(){
   char y;
 cin>>y;
-if(funzione(y) == 0){
+if(riconoscere(y) == 0){
     if (y=='a'){
         cout<<"A";
     }
@@ -95,7 +95,7 @@ if(funzione(y) == 0){
     }
     if (y=='D') {
         cout << "d";
-}
+    }
     if (y=='E') {
         cout << "e";
     }
