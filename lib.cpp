@@ -9,10 +9,7 @@ bool funzione(char o){
     if (o=='A' || o=='B'|| o=='C'|| o=='D'|| o=='E'|| o=='F'|| o=='G'|| o=='H'|| o=='I'|| o=='J'|| o=='K'|| o=='L'|| o=='M'|| o=='N'|| o=='O'|| o=='P'|| o=='Q'|| o=='R'|| o=='S'|| o=='T'|| o=='U'|| o=='V'|| o=='W'|| o=='X'|| o=='Y'|| o=='Z'){
         return 0;
     }
-
-
-    else{
+     else{
         return 1;
     }
-
 }
