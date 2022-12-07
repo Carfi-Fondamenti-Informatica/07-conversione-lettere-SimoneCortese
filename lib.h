@@ -1,1 +1,1 @@
-bool funzione(char);
+bool riconoscere(char);
